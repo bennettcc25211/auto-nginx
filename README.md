@@ -1,1 +1,1 @@
-Script for automating install nginx service
+Script for automating
